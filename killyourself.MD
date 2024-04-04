@@ -4,7 +4,7 @@
 
 ʕ•ᴥ•ʔ ʕ ͡·ᴥ ͡· ʔ ʕ◕ᴥ◕✿ʔ ʕಠᴥಠʔ ʕ•ᴥ•ʔ ʕ ͡·ᴥ ͡· ʔ ʕ◕ᴥ◕✿ʔ ʕಠᴥಠʔ Sorry, I dropped my bag of bears ʕ•ᴥ•ʔ ʕ ͡·ᴥ ͡· ʔ ʕ◕ᴥ◕✿ʔ ʕಠᴥಠʔ ʕ•ᴥ•ʔ ʕ ͡·ᴥ ͡· ʔ ʕ◕ᴥ◕✿ʔ ʕಠᴥಠʔ
 
-- [ ] Main functionality of the bot
+- [ ] Main functionality of the bot - Partially done
 - [ ] Command Handler & Event handler
 - [ ] Connection and implentation of MongoDB via Mongoose
 - [ ] Main look ported to the Next.JS Engine/Framework
