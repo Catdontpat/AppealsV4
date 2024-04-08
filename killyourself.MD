@@ -18,7 +18,7 @@
 - [ ] Implement an embed for showing the full overhaul of stats of approved/denied/delayed appeals
 - [ ] Make sure stability of the website & bot is better
 - [ ] Implement a status page for detecting the status of the website and implement to grafana
-- [ ] implement a dev.leagueappeal.com part of the website for beta features
+- [ ] implement a dev.rootbot.com part of the website for beta features
 - [ ] Style the website to look better and clean up CSS style of every part of the website to be smooth and nice for users to use
 - [ ] Finish project and push to prod
 
